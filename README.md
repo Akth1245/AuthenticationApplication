@@ -1,1 +1,1 @@
-# AuthenticationApplication
+# Authentication Application
